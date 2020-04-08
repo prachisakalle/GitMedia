@@ -1,7 +1,7 @@
-This is my first java application!!!
+//This is my first java application!!!
 
 class MyClass{
-	main(){
-sysout("Welcome to Git!!!)
+	public static void main (string args[]){
+	system.out.println("Welcome to Git!!!)
 	}
 }
