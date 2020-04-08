@@ -1,1 +1,7 @@
-This is my first java for git
+This is my first java application!!!
+
+class MyClass{
+	main(){
+sysout("Welcome to Git!!!)
+	}
+}
