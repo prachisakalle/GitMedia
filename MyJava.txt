@@ -1,7 +1,9 @@
 //This is my first java application!!!
 
 class MyClass{
-	public static void main (string args[]){
+myMethod (){
 	system.out.println("Welcome to Git!!!)
+	public static void main (string args[]){
+	
 	}
 }
